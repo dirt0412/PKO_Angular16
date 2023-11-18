@@ -1,0 +1,15 @@
+.color-container {
+    display: flex;
+  }
+  
+  .color {
+    font-size: 30px;
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .color:hover {
+    background-color: grey;
+    cursor: grab;
+  }

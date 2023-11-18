@@ -1,0 +1,26 @@
+.container {
+  padding-top: 20px;
+
+  h2 {
+    margin-bottom: 20px;
+  }
+
+  input {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  table {
+    th {
+      font-weight: bold;
+    }
+  }
+
+  .amount-column {
+    text-align: right;
+    font-weight: bold;
+  }
+  .opening-date-column {
+    text-align: left;
+  }
+}
